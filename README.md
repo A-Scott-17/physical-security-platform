@@ -42,7 +42,7 @@ The sequence runs from repository foundation through simulation, persistence, de
 | `tests/` | Future automated tests |
 | `.github/` | Issue and pull request templates |
 
-The empty source directories are intentional at this stage. [Architecture notes](docs/architecture/overview.md) describe the planned boundaries, and [the backlog](docs/backlog.md) lists proposed first milestone issues.
+The empty source directories are intentional at this stage. [Architecture notes](docs/architecture/overview.md) describe the planned boundaries, and [the backlog](docs/backlog.md) links the first milestone issues.
 
 ## Development workflow
 
