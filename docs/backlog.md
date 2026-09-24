@@ -1,8 +1,8 @@
-# Proposed Phase 1 issue backlog
+# Phase 1 issue backlog
 
-These are proposed GitHub issues, not implemented work. Create or refine them when a GitHub repository is connected. All examples and fixtures must be fictional.
+These GitHub issues track planned work; none of the features are implemented yet. All examples and fixtures must be fictional.
 
-## 1. Define access-event data model
+## 1. [Define access-event data model](https://github.com/A-Scott-17/physical-security-platform/issues/1)
 
 **Goal:** Specify event identifiers, timestamps, event types, badge and door references, outcome, and validation rules.
 
@@ -10,7 +10,7 @@ These are proposed GitHub issues, not implemented work. Create or refine them wh
 
 **Dependency:** None. This is the next recommended issue.
 
-## 2. Define employee and badge model
+## 2. [Define employee and badge model](https://github.com/A-Scott-17/physical-security-platform/issues/2)
 
 **Goal:** Represent fictional employees, badges, and badge status without real personal data.
 
@@ -18,7 +18,7 @@ These are proposed GitHub issues, not implemented work. Create or refine them wh
 
 **Dependency:** Align identifiers with issue 1.
 
-## 3. Define door and access-level model
+## 3. [Define door and access-level model](https://github.com/A-Scott-17/physical-security-platform/issues/3)
 
 **Goal:** Represent fictional doors, areas, and access permissions.
 
@@ -26,7 +26,7 @@ These are proposed GitHub issues, not implemented work. Create or refine them wh
 
 **Dependency:** Align identifiers with issue 1.
 
-## 4. Add unit-test foundation
+## 4. [Add unit-test foundation](https://github.com/A-Scott-17/physical-security-platform/issues/4)
 
 **Goal:** Choose a minimal Python test runner and fixture conventions once the first model is added.
 
@@ -34,7 +34,7 @@ These are proposed GitHub issues, not implemented work. Create or refine them wh
 
 **Dependency:** Coordinate with issue 1.
 
-## 5. Build repeatable event generator
+## 5. [Build repeatable event generator](https://github.com/A-Scott-17/physical-security-platform/issues/5)
 
 **Goal:** Generate fictional event sequences for the documented scenarios.
 
@@ -42,7 +42,7 @@ These are proposed GitHub issues, not implemented work. Create or refine them wh
 
 **Dependency:** Issues 1–4.
 
-## 6. Specify initial detection rules
+## 6. [Specify initial detection rules](https://github.com/A-Scott-17/physical-security-platform/issues/6)
 
 **Goal:** Document future thresholds and evidence requirements for repeated denials, after-hours access, and door anomalies.
 
